@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+
+    <!-- Category Background -->
+    <category label="30000">
+        <setting id="img.directory" label="30001" type="folder" source="local" option="writeable"/>
+    </category>
+
+</settings>

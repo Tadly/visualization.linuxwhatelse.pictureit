@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<addon id="visualization.linuxwhatelse.pictureit"
+    version="0.0.0"
+    name="PictureIt"
+    provider-name="linuxwhatelse">
+
+    <extension
+        point="xbmc.player.musicviz"
+        library_linux="visualization.linuxwhatelse.pictureit.so.0.0.0" />
+
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Elegant and simple...</summary>
+        <description lang="en">PictureIt will replace your flashy visualization with wallpapers you love.</description>
+        <platform>linux</platform>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <forum>http://forum.kodi.tv/showthread.php?tid=236514</forum>
+        <website>http://www.linuxwhatelse.com</website>
+        <email>info@linuxwhatelse.com</email>
+        <source>https://github.com/linuxwhatelse/visualization.linuxwhatelse.pictureit</source>
+    </extension>
+</addon>
